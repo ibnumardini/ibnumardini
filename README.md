@@ -1,4 +1,4 @@
-### Hi there! :  
+### Hi there 👋
 ![ibnumardini's github stats](https://github-readme-stats.vercel.app/api?username=ibnumardini&show_icons=true)
 
 - 🔭 I’m currently working on software house, you can check <a href="https://qodrbee.com/">PT. QODRBee Berinovasi</a>
