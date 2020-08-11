@@ -1,4 +1,4 @@
-### Hi There 👋!
+### Hi There 👋.
 ![ibnumardini's github stats](https://github-readme-stats.vercel.app/api?username=ibnumardini&show_icons=true)
 
 ### I'm a Future Husband, Future Father, and Junior Software Engineer 🙂.
