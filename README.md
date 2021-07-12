@@ -3,5 +3,5 @@
 
 ### I'm a Future Husband, Future Father, and Junior Software Engineer 🙂.
 - 🌱 I’m currently learning NodeJs
-- 😄 I'm natively speak Indonesian & Jawa and learnly speak English
+- 😄 I'm natively speak Indonesian & Javanese and learnly speak English
 - 📫 You can reach me at fatkurozy.muhammad28@gmail.com
