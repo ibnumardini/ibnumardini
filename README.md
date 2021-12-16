@@ -1,10 +1,10 @@
 ### Hello Fellows 👋.
 
-![ibnumardini's github stats](https://github-readme-stats.vercel.app/api?username=ibnumardini&show_icons=true)
+![ibnumardini's github stats](https://github-readme-stats.vercel.app/api?username=ibnumardini&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
 
 ### I'm a Future Husband, Future Father, and Tech Enthusiast 🤭.
 - 💡 I'm a Web Developer.
-- 🌱 I’m currently learning Go-lang.
+- 🌱 I'm currently learning deep PHP.
 - 😄 I'm natively speak Indonesian and learnly speak English.
 - 📫 You can reach me at fatkurozy.muhammad28@gmail.com.
 
