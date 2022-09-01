@@ -4,8 +4,7 @@
 
 ### I'm a Future Husband, Future Father, and Tech Enthusiast 🤭.
 - 💡 I'm a Web Developer.
-- 🌱 I'm currently learning deep PHP.
-- 😄 I'm natively speak Indonesian and learnly speak English.
+- 🌱 I'm currently learning more about Laravel & Go-lang.
 - 📫 You can reach me at fatkurozy.muhammad28@gmail.com.
 
 ### Connect with Me ⚡️.
