@@ -4,7 +4,7 @@
 
 ### I'm a Future Husband, Future Father, and Tech Enthusiast 🤭.
 - 💡 I'm a Web Developer.
-- 🌱 I'm currently learning more about Laravel & Go-lang.
+- 🌱 I'm currently learning more about NestJS and more about TypeScript.
 - 📫 You can reach me at fatkurozy.muhammad28@gmail.com.
 
 ### Connect with Me ⚡️.
