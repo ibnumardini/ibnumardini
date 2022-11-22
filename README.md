@@ -2,8 +2,8 @@
 
 ![ibnumardini's github stats](https://github-readme-stats.vercel.app/api?username=ibnumardini&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
 
-### I'm a Future Husband, Future Father, and Tech Enthusiast 🤭.
-- 💡 I'm a Web Developer.
+### I'm a Future Indonesia Unicorns Founder 🦄.
+- 💡 I'm a Back-end Web Developer.
 - 🌱 I'm currently learning more about NestJS and more about TypeScript.
 - 📫 You can reach me at fatkurozy.muhammad28@gmail.com.
 
