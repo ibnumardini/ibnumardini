@@ -4,7 +4,7 @@
 
 ### I'm a Future Indonesia Unicorns Founder 🦄.
 - 💡 I'm a Back-end Web Developer.
-- 🌱 I'm currently learning more about NestJS and more about TypeScript.
+- 🌱 I've recently been coding a lot in Laravel ecosystem.
 - 📫 You can reach me at fatkurozy.muhammad28@gmail.com.
 
 ### Connect with Me ⚡️.
