@@ -2,6 +2,8 @@
 
 ![ibnumardini's github stats](https://github-readme-stats.vercel.app/api?username=ibnumardini&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
 
+![ibnumardini's github language stats](https://github-readme-stats.vercel.app/api/top-langs?username=ibnumardini&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)
+
 ### I'm a Future Indonesia Unicorns Founder 🦄.
 - 💡 I'm a Back-end Web Developer.
 - 🌱 I've recently been coding a lot in Laravel ecosystem.
