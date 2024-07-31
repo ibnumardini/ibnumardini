@@ -8,7 +8,7 @@
 
 ### I am the Future Founder of Indonesia's Unicorns 🦄.
 - 💡 I'm a Back-end Web Developer.
-- 🌱 I've recently been coding a lot in Laravel ecosystem.
+- 🌱 I've recently been coding a lot in Laravel & NodeJS ecosystem.
 - 📫 You can reach me at fatkurozy.muhammad28@gmail.com.
 
 ### Connect with Me ⚡️.
