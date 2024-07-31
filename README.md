@@ -6,7 +6,7 @@
 
 ![ibnumardini's github language stats](https://github-readme-stats.vercel.app/api/top-langs?username=ibnumardini&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)
 
-### I'm a Future Indonesia Unicorns Founder 🦄.
+### I am the Future Founder of Indonesia's Unicorns 🦄.
 - 💡 I'm a Back-end Web Developer.
 - 🌱 I've recently been coding a lot in Laravel ecosystem.
 - 📫 You can reach me at fatkurozy.muhammad28@gmail.com.
