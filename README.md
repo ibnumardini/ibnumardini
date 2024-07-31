@@ -14,7 +14,7 @@
 ### Connect with Me ⚡️.
 <a href="https://t.me/ibnumardini"><img src="https://img.shields.io/badge/-Telegram-0077B5?style=flat&logo=Telegram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ibnumardini/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/fatkurozy.muhammad/"><img src="https://img.shields.io/badge/-Facebook-0077B5?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/ibnumardini/"><img src="https://img.shields.io/badge/-Facebook-0077B5?style=flat&logo=Facebook&logoColor=white"/></a>
 
 ### Analytics 🚀.
 ![](https://komarev.com/ghpvc/?username=ibnumardini&color=blue)
