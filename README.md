@@ -12,9 +12,10 @@ Good to see you :)
 - 📫 You can reach me at hi@mardini.dev or grab my [Curriculum Vitae (CV)](https://s.id/fatkur-cv-download)
 
 ### Connect with Me ⚡️
-<a href="https://t.me/ibnumardini"><img src="https://img.shields.io/badge/-Telegram-0077B5?style=flat&logo=Telegram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ibnumardini/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/ibnumardini/"><img src="https://img.shields.io/badge/-Facebook-0077B5?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://t.me/ibnumardini"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ibnumardini/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
+<a href="https://www.facebook.com/ibnumardini/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/></a>
+<a href="http://instagram.com/ibnu.mardini.dev"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
 
 ### Analytics 🚀
 ![](https://komarev.com/ghpvc/?username=ibnumardini&color=green)
