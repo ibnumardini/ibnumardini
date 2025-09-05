@@ -11,6 +11,13 @@ Good to see you :)
 - 🌱 I've recently been coding a lot in the NodeJS ecosystem
 - 📫 You can reach me at hi@mardini.dev or grab my [Curriculum Vitae (CV)](https://s.id/fatkur-cv-download)
 
+### Feature Projects
+
+- [**simalu**](https://github.com/ibnumardini/simalu): Alumni relations software.
+- [**logn**](https://github.com/ibnumardini/logn): Go log management library.
+- [**my-umby-profile-api**](https://github.com/ibnumardini/my-umby-profile-api): UMBY student records API.
+- [**wilayah-indonesia-api**](https://github.com/ibnumardini/wilayah-indonesia-api): Indonesian regions API.
+
 ### Connect with Me ⚡️
 <a href="https://t.me/ibnumardini"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ibnumardini/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"/></a>
