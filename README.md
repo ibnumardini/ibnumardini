@@ -8,7 +8,7 @@ Good to see you :)
 
 ### Who Am I 👨‍💻
 - 💡 I'm a Back-end Web Developer
-- 🌱 I've recently been coding a lot in the NodeJS ecosystem
+- 🌱 I've recently been coding a lot in the Go ecosystem
 - 📫 You can reach me at hi@mardini.dev or grab my [Curriculum Vitae (CV)](https://s.id/fatkur-cv-download)
 
 ### Feature Projects
