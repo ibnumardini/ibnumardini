@@ -6,7 +6,7 @@ Good to see you :)
 
 ![ibnumardini's github stats](https://github-readme-stats.vercel.app/api?username=ibnumardini&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
 
-### Who Am I 👨‍💻
+### Who Am I? 👨‍💻
 - 💡 I'm a Back-end Web Developer
 - 🌱 I've recently been coding a lot in the Go ecosystem
 - 📫 You can reach me at hi@mardini.dev or grab my [Curriculum Vitae (CV)](https://s.id/fatkur-cv-download)
