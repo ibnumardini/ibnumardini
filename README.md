@@ -4,7 +4,9 @@ Good to see you :)
 
 [![StandWithPalestine](https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg)](https://github.com/Safouene1/support-palestine-banner/Markdown-pages/Support.md)
 
-![ibnumardini's github stats](https://github-readme-stats.vercel.app/api?username=ibnumardini&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
+![ibnumardini stats](https://github-readme-stats.shion.dev/api?username=ibnumardini&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)
+
+![ibnumardini top langs](https://github-readme-stats.shion.dev/api/top-langs/?username=ibnumardini&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### Who Am I? 👨‍💻
 - 💡 I'm a Back-end Web Developer
